@@ -1,0 +1,59 @@
+webglobe v1.0.2 (Release date: 2017-06-01)
+================
+
+* Updated description per advice from CRAN folks
+
+
+
+webglobe v1.0.1 (Release date: 2017-06-01)
+================
+
+* Updated description
+
+
+
+webglobe v1.0.0 (Release date: 2017-05-31)
+================
+
+* Added `wgtitle()`
+* Added `label` to `wgpoints()`
+* Allow hex colours
+* Print error messags to the console, where they are more helpful
+
+
+
+webglobe v0.0.5 (Release date: 2017-04-23)
+================
+
+* Restore `approximateTerrainHeights.json` so we can see polygons
+
+
+
+webglobe v0.0.4 (Release date: 2017-04-22)
+================
+
+* Fixed issue with generics printing (but really)
+* Fixed Github-CRAN licensing issue using a `.gitignore` file
+
+
+
+webglobe v0.0.3 (Release date: 2017-04-21)
+================
+
+* Fixed issue with generics printing
+
+
+
+webglobe v0.0.2 (Release date: 2017-04-21)
+================
+
+* Added unimmediate mode
+* Added wgbar(), wgimmediate(), wgimmediate_set(), wgunimmediate()
+* Display camera coordinates in viewer
+
+
+
+webglobe v0.0.1 (Release date: 2017-04-20)
+================
+
+* Test release
