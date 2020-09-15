@@ -1,9 +1,9 @@
-5c14f0016af6717b240444b153651709 *DESCRIPTION
+6d4255ba0949c94daad0bb740a6b45e1 *DESCRIPTION
 c7fdfe76a87accf352678cef298612a0 *LICENCE
 675f63c5c1038133ace87dfa015ca0f5 *NAMESPACE
-64f8bb7fb957872e36829a8d7cf90d5c *NEWS
-00b7dff520b2228b6d3605211129f811 *R/webglobe.R
-5b60754c76a5d328c4a542f3211ba4a3 *build/vignette.rds
+26c769008bcb271248403e2f546bfee8 *NEWS
+dd5b980a3f2b5d85636875df137e5cb8 *R/webglobe.R
+b3e42092433dc2eb2e47040f5ff6a85c *build/vignette.rds
 c182f248020a6d1f1deac795bbe48b15 *inst/client/index.html
 d6032116cad7588b171e5d825501bdde *inst/client/lib/Cesium-1.32/Assets/approximateTerrainHeights.json
 99ecddc73a7ef1d34e1a57b5a0bfa386 *inst/client/lib/Cesium-1.32/Cesium.js
@@ -438,8 +438,8 @@ ba35c0c218315c13f761452dac0a89bb *inst/client/tiles/osm/4/9/5.png
 2f2a49322d9835a9e887d05e610d5ba8 *inst/client/tiles/osm/4/9/8.png
 e155c80f80b06582cc36e4ccce8eca82 *inst/client/tiles/osm/4/9/9.png
 6e0cf25a6098c2cd4b05ca57080d8aa8 *inst/client/webglobe.js
-4cfd02a074afd0d60a0c635d36e003d4 *inst/doc/webglobe.Rmd
-0ec537ab89fd62df392fbfa0ab59526b *inst/doc/webglobe.html
+e46e8513b6d0a92ca2233c8e0d785c95 *inst/doc/webglobe.Rmd
+cae83340805269aff34a6e96702f76d5 *inst/doc/webglobe.html
 387431444fad056701d1177bdc5e6da0 *man/is.webglobe.Rd
 8f33e04c48fa93d1cce2cfb6b4c54b46 *man/plus-.webglobe.Rd
 f955bcb782f313a4721285d26376ee48 *man/print.webglobe.Rd
@@ -456,7 +456,7 @@ ac56e35737ce080da3763f13caf0b403 *man/webglobe.Rd
 9d83c3bb94b5c14f06b2fca2bdbe2ca1 *man/wgtitle.Rd
 ca02c72257254f879f870ce511a6d7b1 *man/wgunimmediate.Rd
 093441804188df2e0bda4aafe87bca4f *vignettes/mercator.png
-4cfd02a074afd0d60a0c635d36e003d4 *vignettes/webglobe.Rmd
+e46e8513b6d0a92ca2233c8e0d785c95 *vignettes/webglobe.Rmd
 18a9d15c965c6fbe11c5d81b28329345 *vignettes/webglobe_dggridR.jpg
 75a3fabfa53a1d2a4b32d84fb81c2659 *vignettes/webglobe_quakes.png
 e612a8f7a622a83bd309ada1e474db5a *vignettes/webglobe_states.png
